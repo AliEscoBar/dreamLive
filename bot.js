@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`💤Don't Sleep💤`,"http://twitch.tv/Dream")
+client.user.setGame(`💤🌀Ꭿ Ꮮ Ꭵ🌀#5566 Don't Sleep💤`,"http://twitch.tv/Dream")
 client.user.setStatus("dnd")
 });
 
